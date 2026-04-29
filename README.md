@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Alona Lutsyk
 
 WordPress Developer · PHP · JavaScript · React · Node.js  
