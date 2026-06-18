@@ -21,7 +21,7 @@ WordPress Developer · PHP · JavaScript · React · Node.js
 
 - [Water Tracker](https://water-tracker-front.vercel.app/welcome) — full-stack team project. Daily water intake tracker with user authentication, React frontend, Node.js + MongoDB backend.
 
-- [GreenHarvest](https://github.com/OleksandrNet/GreenHarvest-project-17) — team JS project. Online store for organic products with product catalog and cart functionality.
+- [GreenHarvest](https://oleksandrnet.github.io/GreenHarvest-project-17/) — team JS project. Online store for organic products with product catalog and cart functionality.
 
 - [Portfolio Landing](https://melodiam16.github.io/team-project-portfolio) — team JS project. Responsive portfolio landing page.
 
